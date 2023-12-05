@@ -2,7 +2,6 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/jaris-fenner/)
 
-Hey there! <br>
 I'm a Data Scientist and alumni of Le Wagon 🚗 passionate about uncovering tales hidden within data. From wrangling numbers to crafting predictive models, I'm on a quest to decode the data universe one insight at a time! 🚀✨
 <br>
 
