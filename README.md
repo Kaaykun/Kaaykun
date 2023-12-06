@@ -34,4 +34,6 @@ I'm a Data Scientist and alumni of Le Wagon 🚗 passionate about uncovering tal
 ![](https://img.shields.io/badge/Google%20Cloud%20Platform-Cloud%20Services-4AB197?style=flat&logo=googlecloud&logoColor=white)
 ![](https://img.shields.io/badge/Google%20BigQuery-Big%20Data%20Querying-4AB197?style=flat&logo=googlecloud&logoColor=white)
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kaaykun&label=Profile%20views&color=0e75b6&style=flat" alt="Kaaykun" />
+</p>
