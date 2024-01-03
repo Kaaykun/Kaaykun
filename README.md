@@ -13,6 +13,10 @@ I'm a Data Scientist and alumni of Le Wagon 🚗 passionate about uncovering tal
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaaykun&repo=SignFlow&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34"/>
   </a>
 
+  <a href="https://github.com/Kaaykun/TomatoLeafDisease" style="flex: 0 0 48%; margin-bottom: 1rem;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaaykun&repo=TomatoLeafDisease&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34"/>
+  </a>
+
   <a href="https://github.com/Kaaykun/CS50x-FinalProject" style="flex: 0 0 48%; margin-bottom: 1rem;">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaaykun&repo=CS50x-FinalProject&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34"/>
   </a>
